@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi! I am Bogdan/bonmas14/bonmas
 
-<!--
-**bonmas14/bonmas14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I Do:
+- **Build games**: no engines, I was living with nvidia 8600GT when RTX 30 came out, never going back. 
+- **Electronics**: STM32, arduino, custom CPU's and so on.  
+- **I do music**: when I dont feel overwhelmed (check my [one of my EP's](https://band.link/broken_junked) i guess).
 
-Here are some ideas to get you started:
+### Currently working on:
+- Programming language. (Graduation project)
+- Touhou inspired game.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I want to do:
+- DAW. 
+- Hardware synthesizer.
+- Games, a lot of them.
+
+### Follow me here:
+- **Code & Electronics**: [BMT Code](https://youtube.com/@bmtcode)  
+- **Music & Ambience**:   [bonmas14](https://youtube.com/@bonmas14)
+- **Just me**:            [telegram](https://t.me/bonmas14)
